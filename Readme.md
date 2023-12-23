@@ -1,46 +1,59 @@
-<a name="readme-top"></a>
+ <a name="readme-top"></a>
+
+
+<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
-- [📗 Table of Contents](#-table-of-contents)
-- [📖 \[school-library-oop\] ](#-school-library-oop-)
-  - [🛠 Built With ](#-built-with-)
-    - [Tech Stack ](#tech-stack-)
-    - [Key Features ](#key-features-)
-  - [💻 Getting Started ](#-getting-started-)
-    - [Prerequisites](#prerequisites)
-    - [Setup](#setup)
-  - [👥 Authors ](#-authors-)
-  - [🔭 Future Features ](#-future-features-)
-  - [🤝 Contributing ](#-contributing-)
-  - [⭐️ Show your support ](#️-show-your-support-)
-  - [🙏 Acknowledgments ](#-acknowledgments-)
-  - [❓ FAQ ](#-faq-)
-  - [📝 License ](#-license-)
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+  -  [Tech Stack](#tech-stack)
+  - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [school-library-oop] <a name="about-project"></a>
+# 📖 [AI Text Summarizer App] <a name="about-project"></a>
 
-**school-library-oop**  is a web library where users can add new students or teachers. Add new books. Save records of who borrowed a given book and when.
-
+**[AI Text Summarizer App]** Welcome to the AI Text Summarizer App! This app leverages the power of Artificial Intelligence APIs to provide concise summaries of long texts. Whether you have a lengthy article, research paper, or any other text document that you want to summarize quickly, our app can assist you
 ## 🛠 Built With <a name="built-with"></a>
 
-Ruby
-
 ### Tech Stack <a name="tech-stack"></a>
-
-<details>
-<summary>Ruby</summary>
-</details>
+- HTML.
+- CSS.
+- Javascript.
+  
+  <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-- **Add students**
-- **Add teachers**
-- **Add books**
+> The following are the key features of the application.
+
+- **[📊 AI-Powered Summarization: The app utilizes cutting-edge Artificial Intelligence APIs to generate concise and meaningful summaries of long texts, enabling users to quickly extract key information.]**
+- **[📱 Responsive Design: A responsive layout that adapts to different screen sizes, making the application accessible on desktop and mobile devices.]**
+- **[🧩 Versatile Text Summarization: Whether dealing with lengthy articles, research papers, or any other text documents, the app efficiently condenses the content, providing users with a time-saving and effective summarization tool.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Live Demo Link](https://ai-text-summarizer-app.karanjoshi6.repl.co/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -48,23 +61,39 @@ Ruby
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-To get started, follow these steps:
+
+To get a local copy up and running, follow these steps.
 
 ### Prerequisites
-
-Ensure you have the following installed:
-
-- Ruby programming language
-- IRB (Interactive Ruby)
+In order to run this project you need:
+- vscode.
+- git.
+- set up an index.html document.
 
 ### Setup
+Clone this repository to your desired folder:
 
-- Clone this repository to your local machine:
-- git clone https://github.com/DevKaranJ/school-library.git
+Navigate to the  directory where you  want to clone this project in your computer.
+Clone this repository to your desired folder:git clone (https://github.com/DevKaranJ/AI-Text-Summarizer-App.git)
 
+### Install
+Install this project with this command:
+`$ npm install`
+
+
+### Usage
+
+To run the project, execute the following command by opening the vscode with the command `code .`
+
+### Run tests
+
+To run tests, run the following command:
+
+Run it in your local server
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
@@ -75,20 +104,12 @@ Ensure you have the following installed:
 - Twitter: [@twitterhandle](https://twitter.com/DevKaranJ)
 - Linkdin: [@linkdinhandle](https://www.linkedin.com/in/devkaranj/)
 
-👤 **George Hamman**
-
-- GitHub: [@githubhandle](https://github.com/George7h)
-- LinkedIn: <a href="https://www.linkedin.com/in/george-hamman-95b98224b/">George Hamman</a>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- **Create UI**
-- **Preserve data**
-- **Write unit tests**
+- **[🎮 Multi-Language Support: Expand language capabilities to support a broader range of languages, making the app accessible and beneficial for users around the world.]**
+- **[🔍 Audio Summarization:Incorporate the ability to summarize spoken content, providing users with summarized transcripts of audio files or recorded speeches.]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -98,38 +119,26 @@ Ensure you have the following installed:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/DevKaranJ/school-library/issues).
+Feel free to check the (https://github.com/DevKaranJ/AI-Text-Summarizer-App/issues).
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- SUPPORT -->
 
+
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project, please give it a star, and if you would love to tell me ways to improve it, contact me on LinkedIn or Twitter. It will be a pleasure to hear from you.
+If you like this project, give it a star .
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse (microverse.org) for providing the resources and the knowledge to work on projects like this.
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
-
-## ❓ FAQ <a name="faq"></a>
-
-- **How do I install Ruby?**
-
-You can download the latest version of Ruby from the official website: https://www.ruby-lang.org/en/downloads/
-
--**Where can I learn the basics of Ruby?**
-
-Check out the Ruby documentation and tutorials at https://www.ruby-lang.org/en/documentation/ and https://www.ruby-lang.org/en/documentation/quickstart/
+I would like to thank the GDSC and the founder of Postman for the opportunity is giving the developers world of opportunity.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -138,5 +147,6 @@ Check out the Ruby documentation and tutorials at https://www.ruby-lang.org/en/d
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
